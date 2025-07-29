@@ -1,0 +1,16 @@
+C:\Users\allan\Documents\DEVELOPMENT\.NET\Clase02\Clase02\bin\Debug\net9.0-windows\Clase02.exe
+C:\Users\allan\Documents\DEVELOPMENT\.NET\Clase02\Clase02\bin\Debug\net9.0-windows\Clase02.deps.json
+C:\Users\allan\Documents\DEVELOPMENT\.NET\Clase02\Clase02\bin\Debug\net9.0-windows\Clase02.runtimeconfig.json
+C:\Users\allan\Documents\DEVELOPMENT\.NET\Clase02\Clase02\bin\Debug\net9.0-windows\Clase02.dll
+C:\Users\allan\Documents\DEVELOPMENT\.NET\Clase02\Clase02\bin\Debug\net9.0-windows\Clase02.pdb
+C:\Users\allan\Documents\DEVELOPMENT\.NET\Clase02\Clase02\obj\Debug\net9.0-windows\Clase02.Form1.resources
+C:\Users\allan\Documents\DEVELOPMENT\.NET\Clase02\Clase02\obj\Debug\net9.0-windows\Clase02.vbproj.GenerateResource.cache
+C:\Users\allan\Documents\DEVELOPMENT\.NET\Clase02\Clase02\obj\Debug\net9.0-windows\Clase02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Documents\DEVELOPMENT\.NET\Clase02\Clase02\obj\Debug\net9.0-windows\Clase02.AssemblyInfoInputs.cache
+C:\Users\allan\Documents\DEVELOPMENT\.NET\Clase02\Clase02\obj\Debug\net9.0-windows\Clase02.AssemblyInfo.vb
+C:\Users\allan\Documents\DEVELOPMENT\.NET\Clase02\Clase02\obj\Debug\net9.0-windows\Clase02.vbproj.CoreCompileInputs.cache
+C:\Users\allan\Documents\DEVELOPMENT\.NET\Clase02\Clase02\obj\Debug\net9.0-windows\Clase02.dll
+C:\Users\allan\Documents\DEVELOPMENT\.NET\Clase02\Clase02\obj\Debug\net9.0-windows\refint\Clase02.dll
+C:\Users\allan\Documents\DEVELOPMENT\.NET\Clase02\Clase02\obj\Debug\net9.0-windows\Clase02.pdb
+C:\Users\allan\Documents\DEVELOPMENT\.NET\Clase02\Clase02\obj\Debug\net9.0-windows\Clase02.genruntimeconfig.cache
+C:\Users\allan\Documents\DEVELOPMENT\.NET\Clase02\Clase02\obj\Debug\net9.0-windows\ref\Clase02.dll
