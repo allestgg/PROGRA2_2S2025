@@ -1,0 +1,13 @@
+C:\Users\allan\Documents\DEVELOPMENT\.NET\Clase03\Clase03\bin\Debug\Clase03.exe.config
+C:\Users\allan\Documents\DEVELOPMENT\.NET\Clase03\Clase03\bin\Debug\Clase03.exe
+C:\Users\allan\Documents\DEVELOPMENT\.NET\Clase03\Clase03\bin\Debug\Clase03.pdb
+C:\Users\allan\Documents\DEVELOPMENT\.NET\Clase03\Clase03\bin\Debug\Clase03.xml
+C:\Users\allan\Documents\DEVELOPMENT\.NET\Clase03\Clase03\obj\Debug\Clase03.vbproj.AssemblyReference.cache
+C:\Users\allan\Documents\DEVELOPMENT\.NET\Clase03\Clase03\obj\Debug\Clase03.Form1.resources
+C:\Users\allan\Documents\DEVELOPMENT\.NET\Clase03\Clase03\obj\Debug\Clase03.Resources.resources
+C:\Users\allan\Documents\DEVELOPMENT\.NET\Clase03\Clase03\obj\Debug\Clase03.vbproj.GenerateResource.cache
+C:\Users\allan\Documents\DEVELOPMENT\.NET\Clase03\Clase03\obj\Debug\Clase03.vbproj.CoreCompileInputs.cache
+C:\Users\allan\Documents\DEVELOPMENT\.NET\Clase03\Clase03\obj\Debug\Clase03.exe
+C:\Users\allan\Documents\DEVELOPMENT\.NET\Clase03\Clase03\obj\Debug\Clase03.xml
+C:\Users\allan\Documents\DEVELOPMENT\.NET\Clase03\Clase03\obj\Debug\Clase03.pdb
+C:\Users\allan\Documents\DEVELOPMENT\.NET\Clase03\Clase03\obj\Debug\Clase03.exe.config
